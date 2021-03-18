@@ -5,3 +5,7 @@ fndjnfndjsanfhewre is a new line
 Hello my name is Aarton
 
 mm1
+<<<<<<< HEAD
+=======
+mm2
+>>>>>>> mm2
